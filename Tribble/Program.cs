@@ -13,5 +13,10 @@ namespace Tribble
             //Wow! Det funkar!!!
             //Knas
         }
+
+        static void KnasigMetod(string user)
+        {
+           user = "Knas";
+        }
     }
 }
