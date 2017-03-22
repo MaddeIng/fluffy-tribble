@@ -11,6 +11,7 @@ namespace Tribble
         static void Main(string[] args)
         {
             //Wow! Det funkar!!!
+            //Knas
         }
     }
 }
