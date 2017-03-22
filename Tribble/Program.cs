@@ -10,7 +10,7 @@ namespace Tribble
     {
         static void Main(string[] args)
         {
-            //KAOS
+            //Wow! Det funkar!!!
         }
     }
 }
